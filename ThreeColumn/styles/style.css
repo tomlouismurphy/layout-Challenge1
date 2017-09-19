@@ -1,0 +1,33 @@
+header {
+	font-size: 40px;
+	text-align: center;
+}
+
+#left {
+	float: left;
+	background-color: red;
+	width: 20%;
+	margin: 1.5%;
+	height: 400px;
+}
+
+#center {
+	float: left;
+	background-color: blue;
+	width: 50%;
+	margin: 1.5%;
+	height: 400px;
+}
+
+#right {
+	float: left;
+	background-color: yellow;
+	width: 20%;
+	margin: 1.5%;
+	height: 400px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}

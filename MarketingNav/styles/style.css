@@ -1,0 +1,53 @@
+header {
+	float: left;
+	font-size: 50px;
+	text-align: center;
+}
+
+li {
+	float: right;
+	font-size: 18px;
+	text-align: center;
+	display: block;
+	padding: 8px;
+}
+
+p {
+	clear: both;
+	background-color: black;
+	color: #00cccc;
+	margin: 20px 20px;
+	padding: 100px 0px;
+}
+
+#left {
+	clear: both;
+	float: left;
+	color: white;
+	background-color: black;
+	width: 30%;
+	margin: 1.5%;
+	height: 150px;
+}
+
+#center {
+	float: left;
+	background-color: #777777;
+	width: 30%;
+	margin: 1.5%;
+	height: 150px;
+}
+
+#right {
+	float: left;
+	background-color: black;
+	color: white;
+	width: 30%;
+	margin: 1.5%;
+	height: 150px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
